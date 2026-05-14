@@ -32,6 +32,5 @@ Create interactive dashboard in Power BI
 Create Project Report and Presentation
 Create project report
 Build presentation deck using Gamma AI
-Follow along with the YouTube video for full walkthrough. 👨‍💼
 
-💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo or share it with someone hiring for Data Analytics.🚀
+💡 Thanks for checking out the project! Your support means a lot! Feel free to star ⭐ this repo of Data Analytics.🚀
